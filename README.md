@@ -1,6 +1,6 @@
 # API
 
-[R code]() for retriving APIs from [omdbapi.com](http://www.omdbapi.com/)
+[R code](https://github.com/nbizzle23/API/blob/master/APIScript.R) for retriving APIs from [omdbapi.com](http://www.omdbapi.com/)
 
 ## Getting Started
 
